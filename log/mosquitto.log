@@ -58,3 +58,390 @@
 1606961408: New client connected from 127.0.0.1 as mosq-BFicoLMw5ojacy8z7h (p2, c1, k60).
 1606961408: Client mosq-BFicoLMw5ojacy8z7h disconnected.
 1606962299: Client mosq-QoWRvPzkBKlZBKHxxQ disconnected.
+1606962521: mosquitto version 1.6.12 starting
+1606962521: Config loaded from /mosquitto/config/mosquitto.conf.
+1606962521: Opening ipv4 listen socket on port 1883.
+1606962521: Opening ipv6 listen socket on port 1883.
+1606962521: mosquitto version 1.6.12 running
+1606964773: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1606966572: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1606967126: New connection from 172.17.0.1 on port 1883.
+1606967126: Client <unknown> disconnected due to protocol error.
+1606967127: New connection from 172.17.0.1 on port 1883.
+1606967127: Client <unknown> disconnected due to protocol error.
+1606967128: New connection from 172.17.0.1 on port 1883.
+1606967128: Client <unknown> disconnected due to protocol error.
+1606967129: New connection from 172.17.0.1 on port 1883.
+1606967129: Client <unknown> disconnected due to protocol error.
+1606967130: New connection from 172.17.0.1 on port 1883.
+1606967130: Client <unknown> disconnected due to protocol error.
+1606967131: New connection from 172.17.0.1 on port 1883.
+1606967131: Client <unknown> disconnected due to protocol error.
+1606967132: New connection from 172.17.0.1 on port 1883.
+1606967132: Client <unknown> disconnected due to protocol error.
+1606967133: New connection from 172.17.0.1 on port 1883.
+1606967133: Client <unknown> disconnected due to protocol error.
+1606967134: New connection from 172.17.0.1 on port 1883.
+1606967134: Client <unknown> disconnected due to protocol error.
+1606967135: New connection from 172.17.0.1 on port 1883.
+1606967135: Client <unknown> disconnected due to protocol error.
+1606967136: New connection from 172.17.0.1 on port 1883.
+1606967136: Client <unknown> disconnected due to protocol error.
+1606967137: New connection from 172.17.0.1 on port 1883.
+1606967137: Client <unknown> disconnected due to protocol error.
+1606967138: New connection from 172.17.0.1 on port 1883.
+1606967138: Client <unknown> disconnected due to protocol error.
+1606967139: New connection from 172.17.0.1 on port 1883.
+1606967139: Client <unknown> disconnected due to protocol error.
+1606967140: New connection from 172.17.0.1 on port 1883.
+1606967140: Client <unknown> disconnected due to protocol error.
+1606967141: New connection from 172.17.0.1 on port 1883.
+1606967141: Client <unknown> disconnected due to protocol error.
+1606967142: New connection from 172.17.0.1 on port 1883.
+1606967142: Client <unknown> disconnected due to protocol error.
+1606967143: New connection from 172.17.0.1 on port 1883.
+1606967143: Client <unknown> disconnected due to protocol error.
+1606967144: New connection from 172.17.0.1 on port 1883.
+1606967144: Client <unknown> disconnected due to protocol error.
+1606967145: New connection from 172.17.0.1 on port 1883.
+1606967145: Client <unknown> disconnected due to protocol error.
+1606967147: New connection from 172.17.0.1 on port 1883.
+1606967147: Client <unknown> disconnected due to protocol error.
+1606967147: New connection from 172.17.0.1 on port 1883.
+1606967147: Client <unknown> disconnected due to protocol error.
+1606967148: New connection from 172.17.0.1 on port 1883.
+1606967148: Client <unknown> disconnected due to protocol error.
+1606967148: New connection from 172.17.0.1 on port 1883.
+1606967148: Client <unknown> disconnected due to protocol error.
+1606967149: New connection from 172.17.0.1 on port 1883.
+1606967149: Client <unknown> disconnected due to protocol error.
+1606967149: New connection from 172.17.0.1 on port 1883.
+1606967149: Client <unknown> disconnected due to protocol error.
+1606967150: New connection from 172.17.0.1 on port 1883.
+1606967150: Client <unknown> disconnected due to protocol error.
+1606967151: New connection from 172.17.0.1 on port 1883.
+1606967151: Client <unknown> disconnected due to protocol error.
+1606967152: New connection from 172.17.0.1 on port 1883.
+1606967152: Client <unknown> disconnected due to protocol error.
+1606967154: New connection from 172.17.0.1 on port 1883.
+1606967154: Client <unknown> disconnected due to protocol error.
+1606967155: New connection from 172.17.0.1 on port 1883.
+1606967155: Client <unknown> disconnected due to protocol error.
+1606967156: New connection from 172.17.0.1 on port 1883.
+1606967156: Client <unknown> disconnected due to protocol error.
+1606967156: New connection from 172.17.0.1 on port 1883.
+1606967156: Client <unknown> disconnected due to protocol error.
+1606967160: New connection from 172.17.0.1 on port 1883.
+1606967160: Client <unknown> disconnected due to protocol error.
+1606967160: New connection from 172.17.0.1 on port 1883.
+1606967160: Client <unknown> disconnected due to protocol error.
+1606967160: New connection from 172.17.0.1 on port 1883.
+1606967160: Client <unknown> disconnected due to protocol error.
+1606967163: New connection from 172.17.0.1 on port 1883.
+1606967163: Client <unknown> disconnected due to protocol error.
+1606967165: New connection from 172.17.0.1 on port 1883.
+1606967165: Client <unknown> disconnected due to protocol error.
+1606967166: New connection from 172.17.0.1 on port 1883.
+1606967166: Client <unknown> disconnected due to protocol error.
+1606967169: New connection from 172.17.0.1 on port 1883.
+1606967169: Client <unknown> disconnected due to protocol error.
+1606967169: New connection from 172.17.0.1 on port 1883.
+1606967169: Client <unknown> disconnected due to protocol error.
+1606967169: New connection from 172.17.0.1 on port 1883.
+1606967169: Client <unknown> disconnected due to protocol error.
+1606967172: New connection from 172.17.0.1 on port 1883.
+1606967172: Client <unknown> disconnected due to protocol error.
+1606967173: New connection from 172.17.0.1 on port 1883.
+1606967173: Client <unknown> disconnected due to protocol error.
+1606967174: New connection from 172.17.0.1 on port 1883.
+1606967174: Client <unknown> disconnected due to protocol error.
+1606967175: New connection from 172.17.0.1 on port 1883.
+1606967175: Client <unknown> disconnected due to protocol error.
+1606967177: New connection from 172.17.0.1 on port 1883.
+1606967177: Client <unknown> disconnected due to protocol error.
+1606967179: New connection from 172.17.0.1 on port 1883.
+1606967179: Client <unknown> disconnected due to protocol error.
+1606967181: New connection from 172.17.0.1 on port 1883.
+1606967181: Client <unknown> disconnected due to protocol error.
+1606967183: New connection from 172.17.0.1 on port 1883.
+1606967183: Client <unknown> disconnected due to protocol error.
+1606967183: New connection from 172.17.0.1 on port 1883.
+1606967183: Client <unknown> disconnected due to protocol error.
+1606967185: New connection from 172.17.0.1 on port 1883.
+1606967185: Client <unknown> disconnected due to protocol error.
+1606967188: New connection from 172.17.0.1 on port 1883.
+1606967188: Client <unknown> disconnected due to protocol error.
+1606967188: New connection from 172.17.0.1 on port 1883.
+1606967188: Client <unknown> disconnected due to protocol error.
+1606967188: New connection from 172.17.0.1 on port 1883.
+1606967188: Client <unknown> disconnected due to protocol error.
+1606967192: New connection from 172.17.0.1 on port 1883.
+1606967192: Client <unknown> disconnected due to protocol error.
+1606967193: New connection from 172.17.0.1 on port 1883.
+1606967193: Client <unknown> disconnected due to protocol error.
+1606967193: New connection from 172.17.0.1 on port 1883.
+1606967193: Client <unknown> disconnected due to protocol error.
+1606967197: New connection from 172.17.0.1 on port 1883.
+1606967197: Client <unknown> disconnected due to protocol error.
+1606967197: New connection from 172.17.0.1 on port 1883.
+1606967197: Client <unknown> disconnected due to protocol error.
+1606967197: New connection from 172.17.0.1 on port 1883.
+1606967197: Client <unknown> disconnected due to protocol error.
+1606967200: New connection from 172.17.0.1 on port 1883.
+1606967200: Client <unknown> disconnected due to protocol error.
+1606967201: New connection from 172.17.0.1 on port 1883.
+1606967201: Client <unknown> disconnected due to protocol error.
+1606967202: New connection from 172.17.0.1 on port 1883.
+1606967202: Client <unknown> disconnected due to protocol error.
+1606967205: New connection from 172.17.0.1 on port 1883.
+1606967205: Client <unknown> disconnected due to protocol error.
+1606967208: New connection from 172.17.0.1 on port 1883.
+1606967208: Client <unknown> disconnected due to protocol error.
+1606967209: New connection from 172.17.0.1 on port 1883.
+1606967209: Client <unknown> disconnected due to protocol error.
+1606967209: New connection from 172.17.0.1 on port 1883.
+1606967209: Client <unknown> disconnected due to protocol error.
+1606967212: New connection from 172.17.0.1 on port 1883.
+1606967212: Client <unknown> disconnected due to protocol error.
+1606967213: New connection from 172.17.0.1 on port 1883.
+1606967213: Client <unknown> disconnected due to protocol error.
+1606967214: New connection from 172.17.0.1 on port 1883.
+1606967214: Client <unknown> disconnected due to protocol error.
+1606967216: New connection from 172.17.0.1 on port 1883.
+1606967216: Client <unknown> disconnected due to protocol error.
+1606967218: New connection from 172.17.0.1 on port 1883.
+1606967218: Client <unknown> disconnected due to protocol error.
+1606967219: New connection from 172.17.0.1 on port 1883.
+1606967219: Client <unknown> disconnected due to protocol error.
+1606967222: New connection from 172.17.0.1 on port 1883.
+1606967222: Client <unknown> disconnected due to protocol error.
+1606967223: New connection from 172.17.0.1 on port 1883.
+1606967223: Client <unknown> disconnected due to protocol error.
+1606967225: New connection from 172.17.0.1 on port 1883.
+1606967225: Client <unknown> disconnected due to protocol error.
+1606967225: New connection from 172.17.0.1 on port 1883.
+1606967225: Client <unknown> disconnected due to protocol error.
+1606967227: New connection from 172.17.0.1 on port 1883.
+1606967227: Client <unknown> disconnected due to protocol error.
+1606967231: New connection from 172.17.0.1 on port 1883.
+1606967231: Client <unknown> disconnected due to protocol error.
+1606967232: New connection from 172.17.0.1 on port 1883.
+1606967232: Client <unknown> disconnected due to protocol error.
+1606967232: New connection from 172.17.0.1 on port 1883.
+1606967232: Client <unknown> disconnected due to protocol error.
+1606968355: mosquitto version 1.6.12 starting
+1606968355: Config loaded from /mosquitto/config/mosquitto.conf.
+1606968355: Opening ipv4 listen socket on port 1883.
+1606968355: Opening ipv6 listen socket on port 1883.
+1606968355: Opening websockets listen socket on port 9090.
+1606968355: mosquitto version 1.6.12 running
+1606968547: mosquitto version 1.6.12 starting
+1606968547: Config loaded from /mosquitto/config/mosquitto.conf.
+1606968547: Opening ipv4 listen socket on port 1883.
+1606968547: Opening ipv6 listen socket on port 1883.
+1606968547: Opening websockets listen socket on port 9001.
+1606968547: mosquitto version 1.6.12 running
+1606968548: New client connected from ::ffff:172.17.0.1 as mqttjs_33a434b0 (p2, c1, k60).
+1606968580: New client connected from ::ffff:172.17.0.1 as mqttjs_30d6261b (p2, c1, k60).
+1606968588: New client connected from ::ffff:172.17.0.1 as mqttjs_450b61ef (p2, c1, k60).
+1606968617: Socket error on client mqttjs_33a434b0, disconnecting.
+1606968617: Socket error on client mqttjs_450b61ef, disconnecting.
+1606968617: Socket error on client mqttjs_30d6261b, disconnecting.
+1606968621: New client connected from ::ffff:172.17.0.1 as mqttjs_0f54cf7c (p2, c1, k60).
+1606968649: New client connected from ::ffff:172.17.0.1 as mqttjs_9d74e603 (p2, c1, k60).
+1606968664: Socket error on client mqttjs_0f54cf7c, disconnecting.
+1606968664: Socket error on client mqttjs_9d74e603, disconnecting.
+1606968668: New client connected from ::ffff:172.17.0.1 as mqttjs_654cce96 (p2, c1, k60).
+1606968682: New client connected from ::ffff:172.17.0.1 as mqttjs_2500c419 (p2, c1, k60).
+1606968693: Socket error on client mqttjs_654cce96, disconnecting.
+1606968693: Socket error on client mqttjs_2500c419, disconnecting.
+1606968697: New client connected from ::ffff:172.17.0.1 as mqttjs_8f7eb078 (p2, c1, k60).
+1606968760: Socket error on client mqttjs_8f7eb078, disconnecting.
+1606968784: New client connected from ::ffff:172.17.0.1 as mqttjs_e3996ca3 (p2, c1, k60).
+1606968850: New client connected from ::ffff:172.17.0.1 as mqttjs_f1a63f45 (p2, c1, k60).
+1606968856: New client connected from ::ffff:172.17.0.1 as mqttjs_70b847fc (p2, c1, k60).
+1606968864: Socket error on client mqttjs_e3996ca3, disconnecting.
+1606968864: Socket error on client mqttjs_70b847fc, disconnecting.
+1606968864: Socket error on client mqttjs_f1a63f45, disconnecting.
+1606968866: New client connected from ::ffff:172.17.0.1 as mqttjs_de1f0018 (p2, c1, k60).
+1606968878: New client connected from ::ffff:172.17.0.1 as mqttjs_107b01f9 (p2, c1, k60).
+1606968887: New client connected from ::ffff:172.17.0.1 as mqttjs_397b0b70 (p2, c1, k60).
+1606968898: New client connected from ::ffff:172.17.0.1 as mqttjs_10247187 (p2, c1, k60).
+1606968899: New client connected from ::ffff:172.17.0.1 as mqttjs_ffaadc41 (p2, c1, k60).
+1606968940: New client connected from ::ffff:172.17.0.1 as mqttjs_0ef4998c (p2, c1, k60).
+1606969009: New connection from 127.0.0.1 on port 1883.
+1606969009: New client connected from 127.0.0.1 as mosq-wbUG7Ucr1LdEiAjWfr (p2, c1, k60).
+1606969009: Client mosq-wbUG7Ucr1LdEiAjWfr disconnected.
+1606969020: New connection from 127.0.0.1 on port 1883.
+1606969020: New client connected from 127.0.0.1 as mosq-0IadIFBj8DSQzgSugu (p2, c1, k60).
+1606969020: Client mosq-0IadIFBj8DSQzgSugu disconnected.
+1606969039: New connection from 127.0.0.1 on port 1883.
+1606969039: New client connected from 127.0.0.1 as mosq-1CCLXxGEiG1UgSJsMa (p2, c1, k60).
+1606969039: Client mosq-1CCLXxGEiG1UgSJsMa disconnected.
+1606969047: New connection from 127.0.0.1 on port 1883.
+1606969047: New client connected from 127.0.0.1 as mosq-r2LbaMdpZslo38D2jq (p2, c1, k60).
+1606969047: Client mosq-r2LbaMdpZslo38D2jq disconnected.
+1606969083: New connection from 127.0.0.1 on port 1883.
+1606969083: New client connected from 127.0.0.1 as mosq-QKUUmqxpjPnZbQZc8b (p2, c1, k60).
+1606969083: Client mosq-QKUUmqxpjPnZbQZc8b disconnected.
+1606969091: Socket error on client mqttjs_de1f0018, disconnecting.
+1606969091: Socket error on client mqttjs_0ef4998c, disconnecting.
+1606969091: Socket error on client mqttjs_ffaadc41, disconnecting.
+1606969091: Socket error on client mqttjs_10247187, disconnecting.
+1606969091: Socket error on client mqttjs_397b0b70, disconnecting.
+1606969091: Socket error on client mqttjs_107b01f9, disconnecting.
+1606969092: New client connected from ::ffff:172.17.0.1 as mqttjs_64539f2b (p2, c1, k60).
+1606969099: New connection from 127.0.0.1 on port 1883.
+1606969099: New client connected from 127.0.0.1 as mosq-LcnMWJytD92h7ZDace (p2, c1, k60).
+1606969099: Client mosq-LcnMWJytD92h7ZDace disconnected.
+1606969155: New client connected from ::ffff:172.17.0.1 as mqttjs_5496ff9b (p2, c1, k60).
+1606969162: New client connected from ::ffff:172.17.0.1 as mqttjs_671f02df (p2, c1, k60).
+1606969168: New client connected from ::ffff:172.17.0.1 as mqttjs_82c80ad0 (p2, c1, k60).
+1606969179: New connection from 127.0.0.1 on port 1883.
+1606969179: New client connected from 127.0.0.1 as mosq-PAOUKuRcFc1fOTQrsZ (p2, c1, k60).
+1606969179: Client mosq-PAOUKuRcFc1fOTQrsZ disconnected.
+1606969396: New client connected from ::ffff:172.17.0.1 as mqttjs_fb288721 (p2, c1, k60).
+1606969410: New client connected from ::ffff:172.17.0.1 as mqttjs_dfa15bd6 (p2, c1, k60).
+1606969431: New client connected from ::ffff:172.17.0.1 as mqttjs_bbd1cec2 (p2, c1, k60).
+1606969445: Socket error on client mqttjs_671f02df, disconnecting.
+1606969445: Socket error on client mqttjs_64539f2b, disconnecting.
+1606969445: Socket error on client mqttjs_dfa15bd6, disconnecting.
+1606969445: Socket error on client mqttjs_fb288721, disconnecting.
+1606969445: Socket error on client mqttjs_82c80ad0, disconnecting.
+1606969445: Socket error on client mqttjs_bbd1cec2, disconnecting.
+1606969445: Socket error on client mqttjs_5496ff9b, disconnecting.
+1606969446: New client connected from ::ffff:172.17.0.1 as mqttjs_17b9cbd1 (p2, c1, k60).
+1606969465: Socket error on client mqttjs_17b9cbd1, disconnecting.
+1606969466: New client connected from ::ffff:172.17.0.1 as mqttjs_672d2539 (p2, c1, k60).
+1606969482: Socket error on client mqttjs_672d2539, disconnecting.
+1606969484: New client connected from ::ffff:172.17.0.1 as mqttjs_80ffebc3 (p2, c1, k60).
+1606969550: New client connected from ::ffff:172.17.0.1 as mqttjs_cee41a09 (p2, c1, k60).
+1606969559: Socket error on client mqttjs_80ffebc3, disconnecting.
+1606969559: Socket error on client mqttjs_cee41a09, disconnecting.
+1606969792: New client connected from ::ffff:172.17.0.1 as mqttjs_13a53f8a (p2, c1, k60).
+1606969795: Socket error on client mqttjs_13a53f8a, disconnecting.
+1606969798: New client connected from ::ffff:172.17.0.1 as mqttjs_2d23cb7f (p2, c1, k60).
+1606969862: Socket error on client mqttjs_2d23cb7f, disconnecting.
+1606969864: New client connected from ::ffff:172.17.0.1 as mqttjs_5874d7cd (p2, c1, k60).
+1606969867: New connection from 127.0.0.1 on port 1883.
+1606969867: New client connected from 127.0.0.1 as mosq-BCg7lpmrMuH57eUEHa (p2, c1, k60).
+1606969867: Client mosq-BCg7lpmrMuH57eUEHa disconnected.
+1606969869: New connection from 127.0.0.1 on port 1883.
+1606969869: New client connected from 127.0.0.1 as mosq-A5d19Lz8EuWLz9cLab (p2, c1, k60).
+1606969869: Client mosq-A5d19Lz8EuWLz9cLab disconnected.
+1606970093: Socket error on client mqttjs_5874d7cd, disconnecting.
+1606970095: New client connected from ::ffff:172.17.0.1 as mqttjs_bb86f277 (p2, c1, k60).
+1606970098: New connection from 127.0.0.1 on port 1883.
+1606970098: New client connected from 127.0.0.1 as mosq-3cxHSjt0HppTbZe1Ee (p2, c1, k60).
+1606970098: Client mosq-3cxHSjt0HppTbZe1Ee disconnected.
+1606970100: New connection from 127.0.0.1 on port 1883.
+1606970100: New client connected from 127.0.0.1 as mosq-8rWsH2D6HA8yZc4McN (p2, c1, k60).
+1606970100: Client mosq-8rWsH2D6HA8yZc4McN disconnected.
+1606970101: New connection from 127.0.0.1 on port 1883.
+1606970101: New client connected from 127.0.0.1 as mosq-gOJqx7SyI3UlfruAXH (p2, c1, k60).
+1606970101: Client mosq-gOJqx7SyI3UlfruAXH disconnected.
+1606970108: New connection from 127.0.0.1 on port 1883.
+1606970108: New client connected from 127.0.0.1 as mosq-5NaIvyobvooh5C6Ial (p2, c1, k60).
+1606970108: Client mosq-5NaIvyobvooh5C6Ial disconnected.
+1606970112: New client connected from ::ffff:172.17.0.1 as mqttjs_50f83e36 (p2, c1, k60).
+1606970119: New connection from 127.0.0.1 on port 1883.
+1606970119: New client connected from 127.0.0.1 as mosq-SAVaN1B9g4ytgSpR0l (p2, c1, k60).
+1606970119: Client mosq-SAVaN1B9g4ytgSpR0l disconnected.
+1606970125: New connection from 127.0.0.1 on port 1883.
+1606970125: New client connected from 127.0.0.1 as mosq-cfAKau37CCwcW1zv2N (p2, c1, k60).
+1606970125: Client mosq-cfAKau37CCwcW1zv2N disconnected.
+1606970168: New connection from 127.0.0.1 on port 1883.
+1606970168: New client connected from 127.0.0.1 as mosq-NvaIbkraIs0BYfVIMZ (p2, c1, k60).
+1606970168: Client mosq-NvaIbkraIs0BYfVIMZ disconnected.
+1606970171: New connection from 127.0.0.1 on port 1883.
+1606970171: New client connected from 127.0.0.1 as mosq-TdcsDJ2JuO4yPUlsra (p2, c1, k60).
+1606970171: Client mosq-TdcsDJ2JuO4yPUlsra disconnected.
+1606970241: New connection from 127.0.0.1 on port 1883.
+1606970241: New client connected from 127.0.0.1 as mosq-w9CnEp2CVIXDE9ncma (p2, c1, k60).
+1606970241: Client mosq-w9CnEp2CVIXDE9ncma disconnected.
+1606970243: New connection from 127.0.0.1 on port 1883.
+1606970243: New client connected from 127.0.0.1 as mosq-bnUzPwBWxcI691HkyF (p2, c1, k60).
+1606970243: Client mosq-bnUzPwBWxcI691HkyF disconnected.
+1606970261: Socket error on client mqttjs_bb86f277, disconnecting.
+1606970261: Socket error on client mqttjs_50f83e36, disconnecting.
+1606970263: New client connected from ::ffff:172.17.0.1 as mqttjs_392321b5 (p2, c1, k60).
+1606970273: New connection from 127.0.0.1 on port 1883.
+1606970273: New client connected from 127.0.0.1 as mosq-mvCDQCUpaKJdGEZkgh (p2, c1, k60).
+1606970273: Client mosq-mvCDQCUpaKJdGEZkgh disconnected.
+1606970375: Socket error on client mqttjs_392321b5, disconnecting.
+1606970376: New client connected from ::ffff:172.17.0.1 as mqttjs_2ee161fe (p2, c1, k60).
+1606970396: New connection from 127.0.0.1 on port 1883.
+1606970396: New client connected from 127.0.0.1 as mosq-4V9PyDQryH2Ytdfru0 (p2, c1, k60).
+1606970396: Client mosq-4V9PyDQryH2Ytdfru0 disconnected.
+1606970403: New connection from 127.0.0.1 on port 1883.
+1606970403: New client connected from 127.0.0.1 as mosq-njPtRfkacCUAx414wg (p2, c1, k60).
+1606970403: Client mosq-njPtRfkacCUAx414wg disconnected.
+1606970404: New connection from 127.0.0.1 on port 1883.
+1606970404: New client connected from 127.0.0.1 as mosq-vC3tSptbWcr7bAlibW (p2, c1, k60).
+1606970404: Client mosq-vC3tSptbWcr7bAlibW disconnected.
+1606970404: New connection from 127.0.0.1 on port 1883.
+1606970404: New client connected from 127.0.0.1 as mosq-i7V8hCDfp0yF0D6trb (p2, c1, k60).
+1606970404: Client mosq-i7V8hCDfp0yF0D6trb disconnected.
+1606970479: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1606970835: Socket error on client mqttjs_2ee161fe, disconnecting.
+1606970836: New client connected from ::ffff:172.17.0.1 as mqttjs_1ce2d293 (p2, c1, k60).
+1606970841: New connection from 127.0.0.1 on port 1883.
+1606970841: New client connected from 127.0.0.1 as mosq-1IcJWU53cAZovgaBKm (p2, c1, k60).
+1606970841: Client mosq-1IcJWU53cAZovgaBKm disconnected.
+1606970844: New connection from 127.0.0.1 on port 1883.
+1606970844: New client connected from 127.0.0.1 as mosq-xJ6RZRQDUgZ52Acjq8 (p2, c1, k60).
+1606970844: Client mosq-xJ6RZRQDUgZ52Acjq8 disconnected.
+1606970893: mosquitto version 1.6.12 starting
+1606970893: Config loaded from /mosquitto/config/mosquitto.conf.
+1606970893: Opening ipv4 listen socket on port 1883.
+1606970893: Opening ipv6 listen socket on port 1883.
+1606970893: Opening websockets listen socket on port 9001.
+1606970893: mosquitto version 1.6.12 running
+1606970895: New client connected from ::ffff:172.17.0.1 as mqttjs_1ce2d293 (p2, c1, k60).
+1606971087: New connection from 127.0.0.1 on port 1883.
+1606971087: New client connected from 127.0.0.1 as mosq-Iic8aHpcP6WkmwlHbh (p2, c1, k60).
+1606971087: Client mosq-Iic8aHpcP6WkmwlHbh disconnected.
+1606971089: New connection from 127.0.0.1 on port 1883.
+1606971089: New client connected from 127.0.0.1 as mosq-4TXw7K2ytDB6X9jXgI (p2, c1, k60).
+1606971089: Client mosq-4TXw7K2ytDB6X9jXgI disconnected.
+1606971097: New connection from 127.0.0.1 on port 1883.
+1606971097: New client connected from 127.0.0.1 as mosq-kBDefs9zCZxhjbqolF (p2, c1, k60).
+1606971097: Client mosq-kBDefs9zCZxhjbqolF disconnected.
+1606971111: New connection from 127.0.0.1 on port 1883.
+1606971111: New client connected from 127.0.0.1 as mosq-ZlzEayduDpjiWaUPOg (p2, c1, k60).
+1606971111: Client mosq-ZlzEayduDpjiWaUPOg disconnected.
+1606971133: New connection from 127.0.0.1 on port 1883.
+1606971133: New client connected from 127.0.0.1 as mosq-TNxyQ56TjMwW2Bp206 (p2, c1, k60).
+1606971133: Client mosq-TNxyQ56TjMwW2Bp206 disconnected.
+1606971141: New connection from 127.0.0.1 on port 1883.
+1606971141: New client connected from 127.0.0.1 as mosq-LAd5VVho6d3QSJtp4G (p2, c1, k60).
+1606971141: Client mosq-LAd5VVho6d3QSJtp4G disconnected.
+1606972692: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1606974382: Socket error on client mqttjs_1ce2d293, disconnecting.
+1606974468: New client connected from ::ffff:172.17.0.1 as mqttjs_f495d6cf (p2, c1, k60).
+1606974491: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1606974509: New client connected from ::ffff:172.17.0.1 as mqttjs_c6fa561e (p2, c1, k60).
+1606974614: mosquitto version 1.6.12 starting
+1606974614: Config loaded from /mosquitto/config/mosquitto.conf.
+1606974614: Opening ipv4 listen socket on port 1883.
+1606974614: Opening ipv6 listen socket on port 1883.
+1606974614: Opening websockets listen socket on port 9001.
+1606974614: mosquitto version 1.6.12 running
+1606974614: New client connected from ::ffff:172.17.0.1 as mqttjs_c6fa561e (p2, c1, k60).
+1606974616: New client connected from ::ffff:172.17.0.1 as mqttjs_f495d6cf (p2, c1, k60).
+1606974730: mosquitto version 1.6.12 starting
+1606974730: Config loaded from /mosquitto/config/mosquitto.conf.
+1606974730: Opening ipv4 listen socket on port 1883.
+1606974730: Opening ipv6 listen socket on port 1883.
+1606974730: Opening websockets listen socket on port 9001.
+1606974730: mosquitto version 1.6.12 running
+1606974730: New client connected from ::ffff:172.17.0.1 as mqttjs_c6fa561e (p2, c1, k60).
+1606974731: New client connected from ::ffff:172.17.0.1 as mqttjs_f495d6cf (p2, c1, k60).
+1606974967: mosquitto version 1.6.12 starting
+1606974967: Config loaded from /mosquitto/config/mosquitto.conf.
+1606974967: Opening ipv4 listen socket on port 1883.
+1606974967: Opening ipv6 listen socket on port 1883.
+1606974967: Opening websockets listen socket on port 9001.
+1606974967: mosquitto version 1.6.12 running
+1606974968: New client connected from ::ffff:172.17.0.1 as mqttjs_f495d6cf (p2, c1, k60).
+1606974973: New client connected from ::ffff:172.17.0.1 as mqttjs_c6fa561e (p2, c1, k60).

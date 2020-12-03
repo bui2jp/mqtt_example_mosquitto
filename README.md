@@ -13,6 +13,9 @@
     -v $(pwd)/log:/mosquitto/log \
     -d eclipse-mosquitto
 ```
+MQTTとWebSocketsの両方のプロトコルを利用できる
+port:1883 mqtt接続(TCP)
+port:9001 Websocket接続
 
 ## mosquitto_pub と mosquitto_sub
 
@@ -43,5 +46,11 @@ my test message
 # Client
 時間があるときに調査する
 1. Javascript client (pub/sub)
+https://github.com/mqttjs/MQTT.js
+
 1. Go Client (pub/sub)
 1. Java Client (pub/sub)
+
+
+# Ref.
+https://mqtt.org/
