@@ -1,0 +1,59 @@
+1606960185: mosquitto version 1.6.12 starting
+1606960185: Config loaded from /mosquitto/config/mosquitto.conf.
+1606960185: Opening ipv4 listen socket on port 1883.
+1606960185: Opening ipv6 listen socket on port 1883.
+1606960185: mosquitto version 1.6.12 running
+1606960823: mosquitto version 1.6.12 starting
+1606960823: Config loaded from /mosquitto/config/mosquitto.conf.
+1606960823: Opening ipv4 listen socket on port 1883.
+1606960823: Opening ipv6 listen socket on port 1883.
+1606960823: mosquitto version 1.6.12 running
+1606961114: New connection from 127.0.0.1 on port 1883.
+1606961114: New client connected from 127.0.0.1 as mosq-dRLfUoyn2vUTMP5KPX (p2, c1, k60).
+1606961114: Client mosq-dRLfUoyn2vUTMP5KPX disconnected.
+1606961124: New connection from 127.0.0.1 on port 1883.
+1606961124: New client connected from 127.0.0.1 as mosq-1YdKAW2qGfIK0RSsgy (p2, c1, k60).
+1606961124: Client mosq-1YdKAW2qGfIK0RSsgy disconnected.
+1606961196: New connection from 127.0.0.1 on port 1883.
+1606961196: New client connected from 127.0.0.1 as mosq-8p2ye8dJW4s846wdTE (p2, c1, k60).
+1606961199: New connection from 127.0.0.1 on port 1883.
+1606961199: New client connected from 127.0.0.1 as mosq-WIMDy7SaReJVYk7SnC (p2, c1, k60).
+1606961199: Client mosq-WIMDy7SaReJVYk7SnC disconnected.
+1606961219: Client mosq-8p2ye8dJW4s846wdTE disconnected.
+1606961220: New connection from 127.0.0.1 on port 1883.
+1606961220: New client connected from 127.0.0.1 as mosq-o1T0mvSyU9WxDjuTXd (p2, c1, k60).
+1606961242: New connection from 127.0.0.1 on port 1883.
+1606961242: New client connected from 127.0.0.1 as mosq-uwV1udEAiXe1xjMdKD (p2, c1, k60).
+1606961242: Client mosq-uwV1udEAiXe1xjMdKD disconnected.
+1606961252: New connection from 127.0.0.1 on port 1883.
+1606961252: New client connected from 127.0.0.1 as mosq-8fqsBxbc3X4lUTCjEn (p2, c1, k60).
+1606961252: Client mosq-8fqsBxbc3X4lUTCjEn disconnected.
+1606961260: New connection from 127.0.0.1 on port 1883.
+1606961260: New client connected from 127.0.0.1 as mosq-gpBvzsdbV1sUaaxPJ5 (p2, c1, k60).
+1606961260: Client mosq-gpBvzsdbV1sUaaxPJ5 disconnected.
+1606961313: New connection from 127.0.0.1 on port 1883.
+1606961313: New client connected from 127.0.0.1 as mosq-bGqRjYjz7Ct0rEHzQ6 (p2, c1, k60).
+1606961313: Client mosq-bGqRjYjz7Ct0rEHzQ6 disconnected.
+1606961327: New connection from 127.0.0.1 on port 1883.
+1606961327: New client connected from 127.0.0.1 as mosq-gYSRy5ZWnNoLKS4Mbu (p2, c1, k60).
+1606961327: Client mosq-gYSRy5ZWnNoLKS4Mbu disconnected.
+1606961333: Client mosq-o1T0mvSyU9WxDjuTXd disconnected.
+1606961342: New connection from 127.0.0.1 on port 1883.
+1606961342: New client connected from 127.0.0.1 as mosq-5Zob9CF7RsL05MfL1B (p2, c1, k60).
+1606961345: New connection from 127.0.0.1 on port 1883.
+1606961345: New client connected from 127.0.0.1 as mosq-2TKHcMM7PSnS5HNYxg (p2, c1, k60).
+1606961345: Client mosq-2TKHcMM7PSnS5HNYxg disconnected.
+1606961347: New connection from 127.0.0.1 on port 1883.
+1606961347: New client connected from 127.0.0.1 as mosq-aHlv856t1TKdXtrISu (p2, c1, k60).
+1606961347: Client mosq-aHlv856t1TKdXtrISu disconnected.
+1606961360: New connection from 127.0.0.1 on port 1883.
+1606961360: New client connected from 127.0.0.1 as mosq-aqS2H0dSNrYKQI1Uem (p2, c1, k60).
+1606961360: Client mosq-aqS2H0dSNrYKQI1Uem disconnected.
+1606961402: New connection from 127.0.0.1 on port 1883.
+1606961402: New client connected from 127.0.0.1 as mosq-QoWRvPzkBKlZBKHxxQ (p2, c1, k60).
+1606961404: New connection from 127.0.0.1 on port 1883.
+1606961404: New client connected from 127.0.0.1 as mosq-BbzI5RjpvwSYHB8A3u (p2, c1, k60).
+1606961404: Client mosq-BbzI5RjpvwSYHB8A3u disconnected.
+1606961408: New connection from 127.0.0.1 on port 1883.
+1606961408: New client connected from 127.0.0.1 as mosq-BFicoLMw5ojacy8z7h (p2, c1, k60).
+1606961408: Client mosq-BFicoLMw5ojacy8z7h disconnected.
