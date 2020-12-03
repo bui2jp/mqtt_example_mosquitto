@@ -1,5 +1,7 @@
 # MQTT example (eclipse-mosquitto)
 
+目的：簡単にMQTT(eclipse-mosquitto)を試してみる
+
 ## Mosquitto on Docker
 
 起動
