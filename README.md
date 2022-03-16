@@ -43,6 +43,21 @@ Terminal2(Pub)
 my test message
 ```
 
+# MQTT version 5 (-D /--property)
+-V で version 5 を指定して、v5の機能を利用してみる
+
+pub (property に response-topic をつける)
+```
+/ # mosquitto_pub -h localhost -m "my test message111" -t aaa/bbb/mytopic -D PUBLISH response-topic xxxyyyzzz12345
+```
+
+sub (-F で出力する項目を選択して response-topic を受け取る)
+```
+/ # mosquitto_sub -h localhost -t aaa/bbb/mytopic -V mqttv5 -F '%R %t %m'
+xxxyyyzzz12345 aaa/bbb/mytopic 0
+```
+
+
 # Client
 時間があるときに調査する
 1. Javascript client (pub/sub)
