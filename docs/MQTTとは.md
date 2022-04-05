@@ -34,5 +34,7 @@ OSS
 
 # (補足)　AMQP
 Advanced Message Queuing Protocol  
-*こちらはQueueを持っている
+Azure Service Busはこちらを採用している  
+RabbitMQ  
+MQTTに比べると重い
 
