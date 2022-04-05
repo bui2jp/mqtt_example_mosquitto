@@ -17,7 +17,7 @@ TCP/IPによるPub/Sub型データ配信
 ## ブローカー
 OSS
 - Eclipse Mosquitto
-- RabbitMQ
+- RabbitMQ (*Pluginが必要)
 - Apache_ActiveMQ
 商用
 - IBM MessageSight
@@ -27,4 +27,12 @@ OSS
 - Eclipse Paho (C, java, JavaScript, golang)
 - MQTT.js 
 
+## MQTT over TLS
+
+## MQTT over WebSocket
+
+
+# (補足)　AMQP
+Advanced Message Queuing Protocol  
+*こちらはQueueを持っている
 
