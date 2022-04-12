@@ -14,12 +14,28 @@ TCP/IPによるPub/Sub型データ配信
 - QoS0,QoS1,QoS2
 - Retain
 
+## 登場人物
+brocker, publisher, subscriber
+
+## シーケンス
+軽量化を実現できている理由
+
+## version 3 と version 5
+
+## Will, Retain, QOS, Keep Alive
+
+## プロトコル比較
+mqtt,http,websocket,amqp,grpc,...
+
+## パフォーマンス
+
 ## ブローカー
-OSS
+(OSS)
 - Eclipse Mosquitto
 - RabbitMQ (*Pluginが必要)
 - Apache_ActiveMQ
-商用
+
+(商用)
 - IBM MessageSight
 - IBM WebSphere MQ Telemetry
 
@@ -27,7 +43,7 @@ OSS
 - Eclipse Paho (C, java, JavaScript, golang)
 - MQTT.js 
 
-## MQTT over TLS
+## 暗号化 (MQTT over TLS)
 
 ## MQTT over WebSocket
 
